@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo08_創建MyBatis的核心配置文件/Demo08_創建MyBatis的核心配置文件.iml" filepath="$PROJECT_DIR$/Demo08_創建MyBatis的核心配置文件/Demo08_創建MyBatis的核心配置文件.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Demos.iml" filepath="$PROJECT_DIR$/.idea/Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo09_創建mapper介面/Demo09_創建mapper介面.iml" filepath="$PROJECT_DIR$/Demo09_創建mapper介面/Demo09_創建mapper介面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo10_創建MyBatis的映射文件/Demo10_創建MyBatis的映射文件.iml" filepath="$PROJECT_DIR$/Demo10_創建MyBatis的映射文件/Demo10_創建MyBatis的映射文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
 </project>
