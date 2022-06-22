@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/Demo09_創建mapper介面/pom.xml" />
         <option value="$PROJECT_DIR$/Demo10_創建MyBatis的映射文件/pom.xml" />
         <option value="$PROJECT_DIR$/Demo11_搭建MyBatis框架之測試添加功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo12_搭建MyBatis框架之優化功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo13_搭建MyBatis框架之測試修改和刪除功能/pom.xml" />
       </list>
     </option>
   </component>

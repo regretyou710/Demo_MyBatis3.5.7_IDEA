@@ -7,6 +7,7 @@
     <groupId>tw.com</groupId>
     <artifactId>Demo11_搭建MyBatis框架之測試添加功能</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <dependencies>
         <!-- Mybatis核心 -->
         <dependency>

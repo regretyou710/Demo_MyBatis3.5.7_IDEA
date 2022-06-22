@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Demo09_創建mapper介面/Demo09_創建mapper介面.iml" filepath="$PROJECT_DIR$/Demo09_創建mapper介面/Demo09_創建mapper介面.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo10_創建MyBatis的映射文件/Demo10_創建MyBatis的映射文件.iml" filepath="$PROJECT_DIR$/Demo10_創建MyBatis的映射文件/Demo10_創建MyBatis的映射文件.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo11_搭建MyBatis框架之測試添加功能/Demo11_搭建MyBatis框架之測試添加功能.iml" filepath="$PROJECT_DIR$/Demo11_搭建MyBatis框架之測試添加功能/Demo11_搭建MyBatis框架之測試添加功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo12_搭建MyBatis框架之優化功能/Demo12_搭建MyBatis框架之優化功能.iml" filepath="$PROJECT_DIR$/Demo12_搭建MyBatis框架之優化功能/Demo12_搭建MyBatis框架之優化功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo13_搭建MyBatis框架之測試修改和刪除功能/Demo13_搭建MyBatis框架之測試修改和刪除功能.iml" filepath="$PROJECT_DIR$/Demo13_搭建MyBatis框架之測試修改和刪除功能/Demo13_搭建MyBatis框架之測試修改和刪除功能.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
