@@ -6,23 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Demo15_MyBatis核心配置文件之environment" />
+        <module name="Demo14_搭建MyBatis框架之測試查詢功能" />
+        <module name="Demo16_MyBatis核心配置文件之properties" />
         <module name="Demo08_創建MyBatis的核心配置文件" />
         <module name="Demo09_創建mapper介面" />
+        <module name="Demo17_MyBatis核心配置文件之typeAliases" />
         <module name="Demo12_搭建MyBatis框架之優化功能" />
         <module name="Demo11_搭建MyBatis框架之測試添加功能" />
+        <module name="Demo18_MyBatis核心配置文件之mappers" />
         <module name="Demo13_搭建MyBatis框架之測試修改和刪除功能" />
         <module name="Demo10_創建MyBatis的映射文件" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Demo08_創建MyBatis的核心配置文件" target="1.5" />
-      <module name="Demo09_創建mapper介面" target="1.5" />
-      <module name="Demo09_創建mapper介面 (1)" target="1.5" />
-      <module name="Demo10_創建MyBatis的映射文件" target="1.5" />
-      <module name="Demo10_創建MyBatis的映射文件 (1)" target="1.5" />
-      <module name="Demo11_搭建MyBatis框架之測試添加功能" target="1.5" />
-      <module name="Demo12_搭建MyBatis框架之優化功能" target="1.5" />
-      <module name="Demo13_搭建MyBatis框架之測試修改和刪除功能" target="1.5" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

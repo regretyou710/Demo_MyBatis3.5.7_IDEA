@@ -12,10 +12,15 @@
         <option value="$PROJECT_DIR$/Demo11_搭建MyBatis框架之測試添加功能/pom.xml" />
         <option value="$PROJECT_DIR$/Demo12_搭建MyBatis框架之優化功能/pom.xml" />
         <option value="$PROJECT_DIR$/Demo13_搭建MyBatis框架之測試修改和刪除功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo14_搭建MyBatis框架之測試查詢功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo15_MyBatis核心配置文件之environment/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo16_MyBatis核心配置文件之properties/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo17_MyBatis核心配置文件之typeAliases/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo18_MyBatis核心配置文件之mappers/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

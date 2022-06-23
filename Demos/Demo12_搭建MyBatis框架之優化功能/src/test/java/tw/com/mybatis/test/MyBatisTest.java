@@ -19,8 +19,6 @@ public class MyBatisTest {
      */
     @Test
     public void testMyBatis() throws IOException {
-        BasicConfigurator.configure();
-
         //加載核心配置文件
         InputStream is = Resources.getResourceAsStream("mybatis-config.xml");
 

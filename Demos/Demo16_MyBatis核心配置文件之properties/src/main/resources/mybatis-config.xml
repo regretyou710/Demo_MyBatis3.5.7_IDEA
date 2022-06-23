@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--引入properties文件-->
+    <properties resource="jdbc.properties"/>
+
+    <!--
+        environments：配置多個連接數據庫的環境
+        屬性：
+            default：設置默認使用的環境的id
+    -->
+    <environments default="development">
+
+        <!--
+            environment：配置某個具體的環境
+            屬性：
+                id：表示連接數據庫的環境的唯一標識，不能重複
+        -->
+        <environment id="development">
+
+            <!--
+                transactionManager：設置事務管理方式
+                屬性：
+                    type="JDBC|MANAGED"
+                    JDBC：表示當前環境中，執行SQL時，使用的是JDBC中原生的事務管理方式，事務的提交或回滾需要手動處理
+                    MANAGED：被管理，例如Spring
+            -->
+            <transactionManager type="JDBC"/>
+
+            <!--
+              dataSource：配置數據源
+              屬性：
+                  type：設置數據源的類型
+                  type="POOLED|UNPOOLED|JNDI"
+                  POOLED：表示使用數據庫連接池緩存數據庫連接
+                  UNPOOLED：表示不使用數據庫連接池
+                  JNDI：表示使用上下文中的數據源
+            -->
+            <dataSource type="POOLED">
+                <!--設置連接數據庫的驅動-->
+                <property name="driver" value="${jdbc.driver}"/>
+                <!--設置連接數據庫的連接地址-->
+                <property name="url"
+                          value="${jdbc.url}"/>
+                <!--設置連接數據庫的用戶名-->
+                <property name="username" value="${jdbc.username}"/>
+                <!--設置連接數據庫的密碼-->
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+
+        <environment id="test">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="oracle.jdbc.driver.OracleDriver"/>
+                <property name="url"
+                          value="jdbc:oracle:thin:@localhost:1521:orcl12c"/>
+                <property name="username" value="system"/>
+                <property name="password" value="manager"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <!--引入映射文件-->
+    <mappers>
+        <mapper resource="mappers/UserMapper.xml"/>
+    </mappers>
+</configuration>

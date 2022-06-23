@@ -20,8 +20,6 @@ public class MyBatisTest {
      */
     @Test
     public void testMyBatis() throws IOException {
-        BasicConfigurator.configure();
-
         //加載核心配置文件
         InputStream is = Resources.getResourceAsStream("mybatis-config.xml");
 
@@ -48,7 +46,6 @@ public class MyBatisTest {
 
     @Test
     public void testCRUD() throws IOException {
-        BasicConfigurator.configure();
         InputStream is = Resources.getResourceAsStream("mybatis-config.xml");
         SqlSessionFactoryBuilder sqlSessionFactoryBuilder = new SqlSessionFactoryBuilder();
         SqlSessionFactory sqlSessionFactory = sqlSessionFactoryBuilder.build(is);
