@@ -17,6 +17,17 @@
         <option value="$PROJECT_DIR$/Demo16_MyBatis核心配置文件之properties/pom.xml" />
         <option value="$PROJECT_DIR$/Demo17_MyBatis核心配置文件之typeAliases/pom.xml" />
         <option value="$PROJECT_DIR$/Demo18_MyBatis核心配置文件之mappers/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo22_封裝SqlSessionUtils工具類並測試功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo23_MyBaits獲取參數值的兩種方式/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo24_MyBaits獲取參數值的各種情況1/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo25_MyBaits獲取參數值的各種情況2/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo26_MyBaits獲取參數值的各種情況3/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo27_MyBaits獲取參數值的各種情況4/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo28_MyBaits獲取參數值的各種情況5/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo30_MyBaits各種查詢功能1/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo31_MyBaits各種查詢功能2/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo32_MyBaits各種查詢功能3/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo33_MyBaits各種查詢功能4/pom.xml" />
       </list>
     </option>
   </component>

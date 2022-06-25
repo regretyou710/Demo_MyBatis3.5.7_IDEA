@@ -13,6 +13,17 @@
       <module fileurl="file://$PROJECT_DIR$/Demo16_MyBatis核心配置文件之properties/Demo16_MyBatis核心配置文件之properties.iml" filepath="$PROJECT_DIR$/Demo16_MyBatis核心配置文件之properties/Demo16_MyBatis核心配置文件之properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo17_MyBatis核心配置文件之typeAliases/Demo17_MyBatis核心配置文件之typeAliases.iml" filepath="$PROJECT_DIR$/Demo17_MyBatis核心配置文件之typeAliases/Demo17_MyBatis核心配置文件之typeAliases.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo18_MyBatis核心配置文件之mappers/Demo18_MyBatis核心配置文件之mappers.iml" filepath="$PROJECT_DIR$/Demo18_MyBatis核心配置文件之mappers/Demo18_MyBatis核心配置文件之mappers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo22_封裝SqlSessionUtils工具類並測試功能/Demo22_封裝SqlSessionUtils工具類並測試功能.iml" filepath="$PROJECT_DIR$/Demo22_封裝SqlSessionUtils工具類並測試功能/Demo22_封裝SqlSessionUtils工具類並測試功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo23_MyBaits獲取參數值的兩種方式/Demo23_MyBaits獲取參數值的兩種方式.iml" filepath="$PROJECT_DIR$/Demo23_MyBaits獲取參數值的兩種方式/Demo23_MyBaits獲取參數值的兩種方式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo24_MyBaits獲取參數值的各種情況1/Demo24_MyBaits獲取參數值的各種情況1.iml" filepath="$PROJECT_DIR$/Demo24_MyBaits獲取參數值的各種情況1/Demo24_MyBaits獲取參數值的各種情況1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo25_MyBaits獲取參數值的各種情況2/Demo25_MyBaits獲取參數值的各種情況2.iml" filepath="$PROJECT_DIR$/Demo25_MyBaits獲取參數值的各種情況2/Demo25_MyBaits獲取參數值的各種情況2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo26_MyBaits獲取參數值的各種情況3/Demo26_MyBaits獲取參數值的各種情況3.iml" filepath="$PROJECT_DIR$/Demo26_MyBaits獲取參數值的各種情況3/Demo26_MyBaits獲取參數值的各種情況3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo27_MyBaits獲取參數值的各種情況4/Demo27_MyBaits獲取參數值的各種情況4.iml" filepath="$PROJECT_DIR$/Demo27_MyBaits獲取參數值的各種情況4/Demo27_MyBaits獲取參數值的各種情況4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo28_MyBaits獲取參數值的各種情況5/Demo28_MyBaits獲取參數值的各種情況5.iml" filepath="$PROJECT_DIR$/Demo28_MyBaits獲取參數值的各種情況5/Demo28_MyBaits獲取參數值的各種情況5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo30_MyBaits各種查詢功能1/Demo30_MyBaits各種查詢功能1.iml" filepath="$PROJECT_DIR$/Demo30_MyBaits各種查詢功能1/Demo30_MyBaits各種查詢功能1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo31_MyBaits各種查詢功能2/Demo31_MyBaits各種查詢功能2.iml" filepath="$PROJECT_DIR$/Demo31_MyBaits各種查詢功能2/Demo31_MyBaits各種查詢功能2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo32_MyBaits各種查詢功能3/Demo32_MyBaits各種查詢功能3.iml" filepath="$PROJECT_DIR$/Demo32_MyBaits各種查詢功能3/Demo32_MyBaits各種查詢功能3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo33_MyBaits各種查詢功能4/Demo33_MyBaits各種查詢功能4.iml" filepath="$PROJECT_DIR$/Demo33_MyBaits各種查詢功能4/Demo33_MyBaits各種查詢功能4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
