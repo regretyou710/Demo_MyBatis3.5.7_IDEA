@@ -24,6 +24,10 @@
       <module fileurl="file://$PROJECT_DIR$/Demo31_MyBaits各種查詢功能2/Demo31_MyBaits各種查詢功能2.iml" filepath="$PROJECT_DIR$/Demo31_MyBaits各種查詢功能2/Demo31_MyBaits各種查詢功能2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo32_MyBaits各種查詢功能3/Demo32_MyBaits各種查詢功能3.iml" filepath="$PROJECT_DIR$/Demo32_MyBaits各種查詢功能3/Demo32_MyBaits各種查詢功能3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo33_MyBaits各種查詢功能4/Demo33_MyBaits各種查詢功能4.iml" filepath="$PROJECT_DIR$/Demo33_MyBaits各種查詢功能4/Demo33_MyBaits各種查詢功能4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo34_MyBaits處理模糊查詢/Demo34_MyBaits處理模糊查詢.iml" filepath="$PROJECT_DIR$/Demo34_MyBaits處理模糊查詢/Demo34_MyBaits處理模糊查詢.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo35_MyBaits處理批量刪除/Demo35_MyBaits處理批量刪除.iml" filepath="$PROJECT_DIR$/Demo35_MyBaits處理批量刪除/Demo35_MyBaits處理批量刪除.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo36_MyBaits處理動態設置表名/Demo36_MyBaits處理動態設置表名.iml" filepath="$PROJECT_DIR$/Demo36_MyBaits處理動態設置表名/Demo36_MyBaits處理動態設置表名.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo37_MyBaits獲取添加功能自增的主鍵/Demo37_MyBaits獲取添加功能自增的主鍵.iml" filepath="$PROJECT_DIR$/Demo37_MyBaits獲取添加功能自增的主鍵/Demo37_MyBaits獲取添加功能自增的主鍵.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
