@@ -34,7 +34,7 @@
         select * from t_emp
     </select>
 
-    <!--處理多對一映射關係方式一:級聯屬性賦值-->
+    <!--處理多對一映射關係方式二:association-->
     <resultMap id="empAndDeptResultMap" type="Emp">
         <id property="eid" column="eid"></id>
         <result property="empName" column="emp_name"></result>
@@ -42,7 +42,9 @@
         <result property="sex" column="sex"></result>
         <result property="email" column="email"></result>
         <!--
-
+            association:處理多對一的映射關係
+            property:需要處理多對一的映射關係的屬性名
+            javaType:該屬性的類型
         -->
         <association property="dept" javaType="Dept">
             <id property="did" column="did"></id>

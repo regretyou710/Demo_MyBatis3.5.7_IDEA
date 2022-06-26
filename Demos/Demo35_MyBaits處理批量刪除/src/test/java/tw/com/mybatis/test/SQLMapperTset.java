@@ -5,6 +5,8 @@ import org.junit.Test;
 import tw.com.mybatis.mapper.SQLMapper;
 import tw.com.mybatis.utils.SqlSessionUtils;
 
+import java.util.HashMap;
+
 public class SQLMapperTset {
     @Test
     public void testGetUserByLike() {
@@ -17,6 +19,6 @@ public class SQLMapperTset {
     public void testDeleteMore() {
         SqlSession sqlSession = SqlSessionUtils.getSqlSession();
         SQLMapper mapper = sqlSession.getMapper(SQLMapper.class);
-        System.out.println(mapper.deleteMore("1,2,3"));
+        System.out.println(mapper.deleteMore("11,12,13"));
     }
 }

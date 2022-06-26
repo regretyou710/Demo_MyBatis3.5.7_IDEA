@@ -39,6 +39,9 @@
         <option value="$PROJECT_DIR$/Demo42_通過級聯屬性賦值解決多對一的映射關係/pom.xml" />
         <option value="$PROJECT_DIR$/Demo43_通過association解決多對一的映射關係/pom.xml" />
         <option value="$PROJECT_DIR$/Demo44_通過分步查詢解決多對一的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo45_延遲加載/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo46_通過collection解決一對多的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo47_通過分步查詢解決一對多的映射關係/pom.xml" />
       </list>
     </option>
   </component>
