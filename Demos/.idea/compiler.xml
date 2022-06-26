@@ -6,32 +6,39 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Demo36_MyBaits處理動態設置表名" />
-        <module name="Demo17_MyBatis核心配置文件之typeAliases" />
-        <module name="Demo26_MyBaits獲取參數值的各種情況3" />
-        <module name="Demo18_MyBatis核心配置文件之mappers" />
-        <module name="Demo15_MyBatis核心配置文件之environment" />
-        <module name="Demo37_MyBaits獲取添加功能自增的主鍵" />
-        <module name="Demo23_MyBaits獲取參數值的兩種方式" />
+        <module name="Demo33_MyBaits各種查詢功能4" />
+        <module name="Demo28_MyBaits獲取參數值的各種情況5" />
+        <module name="Demo08_創建MyBatis的核心配置文件" />
+        <module name="Demo10_創建MyBatis的映射文件" />
         <module name="Demo13_搭建MyBatis框架之測試修改和刪除功能" />
-        <module name="Demo16_MyBatis核心配置文件之properties" />
-        <module name="Demo09_創建mapper介面" />
+        <module name="Demo34_MyBaits處理模糊查詢" />
+        <module name="Demo15_MyBatis核心配置文件之environment" />
+        <module name="Demo17_MyBatis核心配置文件之typeAliases" />
+        <module name="Demo14_搭建MyBatis框架之測試查詢功能" />
+        <module name="Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係" />
+        <module name="Demo42_通過級聯屬性賦值解決多對一的映射關係" />
+        <module name="Demo12_搭建MyBatis框架之優化功能" />
+        <module name="Demo11_搭建MyBatis框架之測試添加功能" />
+        <module name="Demo41_通過resultMap解決字段名和屬性名的映射關係" />
+        <module name="Demo39_透過欄位別名解決欄位明和屬性名的映射關係" />
+        <module name="Demo18_MyBatis核心配置文件之mappers" />
+        <module name="Demo25_MyBaits獲取參數值的各種情況2" />
+        <module name="Demo44_通過分步查詢解決多對一的映射關係" />
+        <module name="Demo36_MyBaits處理動態設置表名" />
+        <module name="Demo24_MyBaits獲取參數值的各種情況1" />
+        <module name="Demo26_MyBaits獲取參數值的各種情況3" />
+        <module name="Demo32_MyBaits各種查詢功能3" />
         <module name="Demo22_封裝SqlSessionUtils工具類並測試功能" />
         <module name="Demo31_MyBaits各種查詢功能2" />
-        <module name="Demo34_MyBaits處理模糊查詢" />
-        <module name="Demo30_MyBaits各種查詢功能1" />
-        <module name="Demo08_創建MyBatis的核心配置文件" />
-        <module name="Demo35_MyBaits處理批量刪除" />
         <module name="Demo27_MyBaits獲取參數值的各種情況4" />
-        <module name="Demo10_創建MyBatis的映射文件" />
-        <module name="Demo24_MyBaits獲取參數值的各種情況1" />
-        <module name="Demo25_MyBaits獲取參數值的各種情況2" />
-        <module name="Demo28_MyBaits獲取參數值的各種情況5" />
-        <module name="Demo14_搭建MyBatis框架之測試查詢功能" />
-        <module name="Demo12_搭建MyBatis框架之優化功能" />
-        <module name="Demo33_MyBaits各種查詢功能4" />
-        <module name="Demo32_MyBaits各種查詢功能3" />
-        <module name="Demo11_搭建MyBatis框架之測試添加功能" />
+        <module name="Demo09_創建mapper介面" />
+        <module name="Demo35_MyBaits處理批量刪除" />
+        <module name="Demo37_MyBaits獲取添加功能自增的主鍵" />
+        <module name="Demo30_MyBaits各種查詢功能1" />
+        <module name="Demo23_MyBaits獲取參數值的兩種方式" />
+        <module name="Demo43_通過association解決多對一的映射關係" />
+        <module name="Demo38_搭建MyBatis框架" />
+        <module name="Demo16_MyBatis核心配置文件之properties" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -60,7 +67,14 @@
       <module name="Demo34_MyBaits處理模糊查詢" target="1.5" />
       <module name="Demo35_MyBaits處理批量刪除" target="1.5" />
       <module name="Demo36_MyBaits處理動態設置表名" target="1.5" />
-      <module name="Demo37_MyBaits獲取添加功能自增的主鍵" target="8" />
+      <module name="Demo37_MyBaits獲取添加功能自增的主鍵" target="1.5" />
+      <module name="Demo38_搭建MyBatis框架" target="1.5" />
+      <module name="Demo39_透過欄位別名解決欄位明和屬性名的映射關係" target="1.5" />
+      <module name="Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係" target="1.5" />
+      <module name="Demo41_通過resultMap解決字段名和屬性名的映射關係" target="1.5" />
+      <module name="Demo42_通過級聯屬性賦值解決多對一的映射關係" target="1.5" />
+      <module name="Demo43_通過association解決多對一的映射關係" target="1.5" />
+      <module name="Demo44_通過分步查詢解決多對一的映射關係" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

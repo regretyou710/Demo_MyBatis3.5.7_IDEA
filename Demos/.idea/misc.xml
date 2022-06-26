@@ -32,6 +32,13 @@
         <option value="$PROJECT_DIR$/Demo35_MyBaits處理批量刪除/pom.xml" />
         <option value="$PROJECT_DIR$/Demo36_MyBaits處理動態設置表名/pom.xml" />
         <option value="$PROJECT_DIR$/Demo37_MyBaits獲取添加功能自增的主鍵/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo38_搭建MyBatis框架/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo39_透過欄位別名解決欄位明和屬性名的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo41_通過resultMap解決字段名和屬性名的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo42_通過級聯屬性賦值解決多對一的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo43_通過association解決多對一的映射關係/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo44_通過分步查詢解決多對一的映射關係/pom.xml" />
       </list>
     </option>
   </component>

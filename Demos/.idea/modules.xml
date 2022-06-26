@@ -28,6 +28,13 @@
       <module fileurl="file://$PROJECT_DIR$/Demo35_MyBaits處理批量刪除/Demo35_MyBaits處理批量刪除.iml" filepath="$PROJECT_DIR$/Demo35_MyBaits處理批量刪除/Demo35_MyBaits處理批量刪除.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo36_MyBaits處理動態設置表名/Demo36_MyBaits處理動態設置表名.iml" filepath="$PROJECT_DIR$/Demo36_MyBaits處理動態設置表名/Demo36_MyBaits處理動態設置表名.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo37_MyBaits獲取添加功能自增的主鍵/Demo37_MyBaits獲取添加功能自增的主鍵.iml" filepath="$PROJECT_DIR$/Demo37_MyBaits獲取添加功能自增的主鍵/Demo37_MyBaits獲取添加功能自增的主鍵.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo38_搭建MyBatis框架/Demo38_搭建MyBatis框架.iml" filepath="$PROJECT_DIR$/Demo38_搭建MyBatis框架/Demo38_搭建MyBatis框架.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo39_透過欄位別名解決欄位明和屬性名的映射關係/Demo39_透過欄位別名解決欄位明和屬性名的映射關係.iml" filepath="$PROJECT_DIR$/Demo39_透過欄位別名解決欄位明和屬性名的映射關係/Demo39_透過欄位別名解決欄位明和屬性名的映射關係.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係/Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係.iml" filepath="$PROJECT_DIR$/Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係/Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo41_通過resultMap解決字段名和屬性名的映射關係/Demo41_通過resultMap解決字段名和屬性名的映射關係.iml" filepath="$PROJECT_DIR$/Demo41_通過resultMap解決字段名和屬性名的映射關係/Demo41_通過resultMap解決字段名和屬性名的映射關係.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo42_通過級聯屬性賦值解決多對一的映射關係/Demo42_通過級聯屬性賦值解決多對一的映射關係.iml" filepath="$PROJECT_DIR$/Demo42_通過級聯屬性賦值解決多對一的映射關係/Demo42_通過級聯屬性賦值解決多對一的映射關係.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo43_通過association解決多對一的映射關係/Demo43_通過association解決多對一的映射關係.iml" filepath="$PROJECT_DIR$/Demo43_通過association解決多對一的映射關係/Demo43_通過association解決多對一的映射關係.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo44_通過分步查詢解決多對一的映射關係/Demo44_通過分步查詢解決多對一的映射關係.iml" filepath="$PROJECT_DIR$/Demo44_通過分步查詢解決多對一的映射關係/Demo44_通過分步查詢解決多對一的映射關係.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
