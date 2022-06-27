@@ -38,6 +38,9 @@
       <module fileurl="file://$PROJECT_DIR$/Demo45_延遲加載/Demo45_延遲加載.iml" filepath="$PROJECT_DIR$/Demo45_延遲加載/Demo45_延遲加載.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo46_通過collection解決一對多的映射關係/Demo46_通過collection解決一對多的映射關係.iml" filepath="$PROJECT_DIR$/Demo46_通過collection解決一對多的映射關係/Demo46_通過collection解決一對多的映射關係.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo47_通過分步查詢解決一對多的映射關係/Demo47_通過分步查詢解決一對多的映射關係.iml" filepath="$PROJECT_DIR$/Demo47_通過分步查詢解決一對多的映射關係/Demo47_通過分步查詢解決一對多的映射關係.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo49_動態SQL之if標籤/Demo49_動態SQL之if標籤.iml" filepath="$PROJECT_DIR$/Demo49_動態SQL之if標籤/Demo49_動態SQL之if標籤.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo50_動態SQL之where標籤/Demo50_動態SQL之where標籤.iml" filepath="$PROJECT_DIR$/Demo50_動態SQL之where標籤/Demo50_動態SQL之where標籤.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo51_動態SQL之trim標籤/Demo51_動態SQL之trim標籤.iml" filepath="$PROJECT_DIR$/Demo51_動態SQL之trim標籤/Demo51_動態SQL之trim標籤.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
