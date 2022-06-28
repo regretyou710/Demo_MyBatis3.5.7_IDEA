@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="tw.com.mybatis.mapper.DynamicSQLMapper">
+    <!--int deleteMoreByArray(@Param("eids") Integer[] eids);-->
+    <delete id="deleteMoreByArray">
+        <!--方式一-->
+        <!--        delete from t_emp where eid in-->
+        <!--        &lt;!&ndash;-->
+        <!--            collection:實參傳遞進來的陣列或集合-->
+        <!--            item:宣告陣列或集合每次循環的變量-->
+        <!--            separator:分隔符-->
+        <!--            open:迴圈開始前的符號-->
+        <!--            close:迴圈結束後的符號-->
+        <!--        &ndash;&gt;-->
+        <!--        <foreach collection="eids" item="element" separator="," open="(" close=")">-->
+        <!--            #{element}-->
+        <!--        </foreach>-->
+
+        <!--方式二-->
+        delete from t_emp where
+        <foreach collection="eids" item="element" separator="or">
+            eid = #{element}
+        </foreach>
+    </delete>
+</mapper>

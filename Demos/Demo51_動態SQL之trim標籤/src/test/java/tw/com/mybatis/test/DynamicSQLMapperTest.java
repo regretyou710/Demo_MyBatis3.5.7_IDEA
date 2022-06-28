@@ -27,8 +27,8 @@ public class DynamicSQLMapperTest {
     public void testGetEmpByCondition() {
         SqlSession sqlSession = SqlSessionUtils.getSqlSession();
         DynamicSQLMapper mapper = sqlSession.getMapper(DynamicSQLMapper.class);
-        List<Emp> emps = mapper.getEmpByCondition(new Emp(null, "張三", null, "23", null));
-        //List<Emp> emps = mapper.getEmpByCondition(new Emp(null, "", null, "", null));
+        List<Emp> emps = mapper.getEmpByCondition(new Emp(null, "張三", null, "23", null));//Preparing: select * from t_emp where emp_name = ? and sex = ?
+        //List<Emp> emps = mapper.getEmpByCondition(new Emp(null, "", null, "", null));//Preparing: select * from t_emp
         System.out.println(emps);
     }
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="tw.com.mybatis.mapper.DynamicSQLMapper">
+    <!--int insertMoreByList(@Param("emps") List<Emp> emps);-->
+    <insert id="insertMoreByList">
+        insert all
+        <foreach collection="emps" item="emp">
+            into t_emp values (null,#{emp.empName},#{emp.age},#{emp.sex},#{emp.email},null)
+        </foreach>
+        select 1 from dual
+    </insert>
+</mapper>
