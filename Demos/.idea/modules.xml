@@ -44,6 +44,10 @@
       <module fileurl="file://$PROJECT_DIR$/Demo52_動態SQL之choose、when、otherwise標籤/Demo52_動態SQL之choose、when、otherwise標籤.iml" filepath="$PROJECT_DIR$/Demo52_動態SQL之choose、when、otherwise標籤/Demo52_動態SQL之choose、when、otherwise標籤.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo53_動態SQL之foreach標籤(1)-批量刪除/Demo53_動態SQL之foreach標籤(1)-批量刪除.iml" filepath="$PROJECT_DIR$/Demo53_動態SQL之foreach標籤(1)-批量刪除/Demo53_動態SQL之foreach標籤(1)-批量刪除.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo54_動態SQL之foreach標籤(2)-批量新增/Demo54_動態SQL之foreach標籤(2)-批量新增.iml" filepath="$PROJECT_DIR$/Demo54_動態SQL之foreach標籤(2)-批量新增/Demo54_動態SQL之foreach標籤(2)-批量新增.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo55_動態SQL之sql標籤/Demo55_動態SQL之sql標籤.iml" filepath="$PROJECT_DIR$/Demo55_動態SQL之sql標籤/Demo55_動態SQL之sql標籤.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo56_MyBatis的一級緩存/Demo56_MyBatis的一級緩存.iml" filepath="$PROJECT_DIR$/Demo56_MyBatis的一級緩存/Demo56_MyBatis的一級緩存.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo57_使一級緩存失效的四種情況/Demo57_使一級緩存失效的四種情況.iml" filepath="$PROJECT_DIR$/Demo57_使一級緩存失效的四種情況/Demo57_使一級緩存失效的四種情況.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo58_MyBatis的二級緩存/Demo58_MyBatis的二級緩存.iml" filepath="$PROJECT_DIR$/Demo58_MyBatis的二級緩存/Demo58_MyBatis的二級緩存.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>
