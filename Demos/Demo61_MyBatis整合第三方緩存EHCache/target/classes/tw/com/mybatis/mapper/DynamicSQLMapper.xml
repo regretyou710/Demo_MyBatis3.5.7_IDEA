@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="tw.com.mybatis.mapper.DynamicSQLMapper">
+    <!--List<Emp> getEmpByCondition(Emp emp);-->
+    <select id="getEmpByCondition" resultType="Emp">
+        select <include refid="empColumns"></include> from t_emp
+        <trim prefix="where" suffixOverrides="and|or">
+            <if test="empName != '' and empName != null">
+                emp_name = #{empName} and
+            </if>
+            <if test="age != '' and age != null">
+                age = #{age} and
+            </if>
+            <if test="sex != '' and sex != null">
+                sex = #{sex} and
+            </if>
+            <if test="email != '' and email != null">
+                email = #{email}
+            </if>
+        </trim>
+    </select>
+    
+    <sql id="empColumns">eid,emp_name,age,sex,email</sql>
+</mapper>

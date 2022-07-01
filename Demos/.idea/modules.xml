@@ -48,6 +48,10 @@
       <module fileurl="file://$PROJECT_DIR$/Demo56_MyBatis的一級緩存/Demo56_MyBatis的一級緩存.iml" filepath="$PROJECT_DIR$/Demo56_MyBatis的一級緩存/Demo56_MyBatis的一級緩存.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo57_使一級緩存失效的四種情況/Demo57_使一級緩存失效的四種情況.iml" filepath="$PROJECT_DIR$/Demo57_使一級緩存失效的四種情況/Demo57_使一級緩存失效的四種情況.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo58_MyBatis的二級緩存/Demo58_MyBatis的二級緩存.iml" filepath="$PROJECT_DIR$/Demo58_MyBatis的二級緩存/Demo58_MyBatis的二級緩存.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo61_MyBatis整合第三方緩存EHCache/Demo61_MyBatis整合第三方緩存EHCache.iml" filepath="$PROJECT_DIR$/Demo61_MyBatis整合第三方緩存EHCache/Demo61_MyBatis整合第三方緩存EHCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo62_MyBatis逆向工程之清晰簡潔版/Demo62_MyBatis逆向工程之清晰簡潔版.iml" filepath="$PROJECT_DIR$/Demo62_MyBatis逆向工程之清晰簡潔版/Demo62_MyBatis逆向工程之清晰簡潔版.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo63_MyBatis逆向工程之清晰尊享版(1)/Demo63.iml" filepath="$PROJECT_DIR$/Demo63_MyBatis逆向工程之清晰尊享版(1)/Demo63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo64_MyBatis逆向工程之清晰尊享版(2)/Demo64.iml" filepath="$PROJECT_DIR$/Demo64_MyBatis逆向工程之清晰尊享版(2)/Demo64.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
     </modules>
   </component>

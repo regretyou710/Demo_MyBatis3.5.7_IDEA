@@ -52,6 +52,10 @@
         <option value="$PROJECT_DIR$/Demo56_MyBatis的一級緩存/pom.xml" />
         <option value="$PROJECT_DIR$/Demo57_使一級緩存失效的四種情況/pom.xml" />
         <option value="$PROJECT_DIR$/Demo58_MyBatis的二級緩存/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo61_MyBatis整合第三方緩存EHCache/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo62_MyBatis逆向工程之清晰簡潔版/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo63_MyBatis逆向工程之清晰尊享版(1)/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo64_MyBatis逆向工程之清晰尊享版(2)/pom.xml" />
       </list>
     </option>
   </component>

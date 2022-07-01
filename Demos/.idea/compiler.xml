@@ -10,15 +10,16 @@
         <module name="Demo32_MyBaits各種查詢功能3" />
         <module name="Demo52_動態SQL之choose、when、otherwise標籤" />
         <module name="Demo10_創建MyBatis的映射文件" />
-        <module name="Demo08_創建MyBatis的核心配置文件" />
+        <module name="Demo61_MyBatis整合第三方緩存EHCache" />
         <module name="Demo51_動態SQL之trim標籤" />
         <module name="Demo34_MyBaits處理模糊查詢" />
         <module name="Demo15_MyBatis核心配置文件之environment" />
         <module name="Demo57_使一級緩存失效的四種情況" />
         <module name="Demo17_MyBatis核心配置文件之typeAliases" />
-        <module name="Demo14_搭建MyBatis框架之測試查詢功能" />
+        <module name="Demo62_MyBatis逆向工程之清晰簡潔版" />
         <module name="Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係" />
         <module name="Demo42_通過級聯屬性賦值解決多對一的映射關係" />
+        <module name="Demo22_封裝SqlSessionUtils工具類並測試功能" />
         <module name="Demo33_MyBaits各種查詢功能4" />
         <module name="Demo11_搭建MyBatis框架之測試添加功能" />
         <module name="Demo41_通過resultMap解決字段名和屬性名的映射關係" />
@@ -31,12 +32,15 @@
         <module name="Demo36_MyBaits處理動態設置表名" />
         <module name="Demo55_動態SQL之sql標籤" />
         <module name="Demo50_動態SQL之where標籤" />
+        <module name="Demo64" />
+        <module name="Demo08_創建MyBatis的核心配置文件" />
         <module name="Demo24_MyBaits獲取參數值的各種情況1" />
         <module name="Demo26_MyBaits獲取參數值的各種情況3" />
         <module name="Demo53_動態SQL之foreach標籤(1)-批量刪除" />
+        <module name="Demo63" />
         <module name="Demo49_動態SQL之if標籤" />
         <module name="Demo56_MyBatis的一級緩存" />
-        <module name="Demo22_封裝SqlSessionUtils工具類並測試功能" />
+        <module name="Demo14_搭建MyBatis框架之測試查詢功能" />
         <module name="Demo58_MyBatis的二級緩存" />
         <module name="Demo12_搭建MyBatis框架之優化功能" />
         <module name="Demo31_MyBaits各種查詢功能2" />
@@ -101,6 +105,10 @@
       <module name="Demo56_MyBatis的一級緩存" target="1.8" />
       <module name="Demo57_使一級緩存失效的四種情況" target="1.8" />
       <module name="Demo58_MyBatis的二級緩存" target="1.8" />
+      <module name="Demo61_MyBatis整合第三方緩存EHCache" target="1.8" />
+      <module name="Demo62_MyBatis逆向工程之清晰簡潔版" target="1.8" />
+      <module name="Demo63" target="1.8" />
+      <module name="Demo64" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
