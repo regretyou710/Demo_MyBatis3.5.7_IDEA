@@ -17,6 +17,7 @@
         <module name="Demo57_使一級緩存失效的四種情況" />
         <module name="Demo17_MyBatis核心配置文件之typeAliases" />
         <module name="Demo62_MyBatis逆向工程之清晰簡潔版" />
+        <module name="Demo66" />
         <module name="Demo40_透過全局配置mapUnderscoreToCamelCase解決欄位名和屬性名的映射關係" />
         <module name="Demo42_通過級聯屬性賦值解決多對一的映射關係" />
         <module name="Demo22_封裝SqlSessionUtils工具類並測試功能" />
@@ -39,6 +40,7 @@
         <module name="Demo53_動態SQL之foreach標籤(1)-批量刪除" />
         <module name="Demo63" />
         <module name="Demo49_動態SQL之if標籤" />
+        <module name="Demo65" />
         <module name="Demo56_MyBatis的一級緩存" />
         <module name="Demo14_搭建MyBatis框架之測試查詢功能" />
         <module name="Demo58_MyBatis的二級緩存" />
@@ -109,6 +111,8 @@
       <module name="Demo62_MyBatis逆向工程之清晰簡潔版" target="1.8" />
       <module name="Demo63" target="1.8" />
       <module name="Demo64" target="1.8" />
+      <module name="Demo65" target="1.8" />
+      <module name="Demo66" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

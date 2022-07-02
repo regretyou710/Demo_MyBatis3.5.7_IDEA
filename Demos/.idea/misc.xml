@@ -56,6 +56,8 @@
         <option value="$PROJECT_DIR$/Demo62_MyBatis逆向工程之清晰簡潔版/pom.xml" />
         <option value="$PROJECT_DIR$/Demo63_MyBatis逆向工程之清晰尊享版(1)/pom.xml" />
         <option value="$PROJECT_DIR$/Demo64_MyBatis逆向工程之清晰尊享版(2)/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo65_MyBatis的分頁插件簡介/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo66_MyBatis的分頁插件的使用/pom.xml" />
       </list>
     </option>
   </component>
