@@ -22,7 +22,7 @@
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
         <!-- SQL映射文件的生成策略 -->
-        <sqlMapGenerator targetPackage="tw.com..mybatis.mapper"
+        <sqlMapGenerator targetPackage="tw.com.mybatis.mapper"
                          targetProject=".\src\main\resources">
             <property name="enableSubPackages" value="true"/>
         </sqlMapGenerator>
